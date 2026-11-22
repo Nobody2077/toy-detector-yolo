@@ -1,0 +1,1 @@
+Copia aqui tu modelo exportado con el nombre: juguetes.tflite
